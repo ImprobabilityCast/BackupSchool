@@ -1,0 +1,8 @@
+obj
+bin
+
+# because I don't own the clips used to make them
+*.wav
+
+# it's there, but it won't do anyone any good
+*.cbp
